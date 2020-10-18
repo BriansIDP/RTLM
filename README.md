@@ -15,10 +15,10 @@ To train on SWBD text data<br>
 
 ## N-best Rescoring
 Rescoring AMI nbest list
-`bash AMInbest.sh`
+`bash AMInbest.sh`<br>
 Rescoring SWB nbest list
-`bash SWBDnbest.sh`
+`bash SWBDnbest.sh`<br>
 Rescoring RT03 nbest list
-`bash RTnbest.sh`
+`bash RTnbest.sh`<br>
 
 Note that the path to the trained LM (--model) and to the nbest list (--nbest) should be modified to your own path.
